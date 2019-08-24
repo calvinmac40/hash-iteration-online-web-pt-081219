@@ -15,7 +15,7 @@ def age_appropriate_birthday(birthday_kids)
   i = 0 
   birthday_kids.each do |names,age|
    puts "Happy Birthday #{names}! You are now #{age} years old!"
-   i += 1
+   i != 1
 end
 puts "You are too old for this."
 end
