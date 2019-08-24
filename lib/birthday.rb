@@ -21,6 +21,7 @@ def age_appropriate_birthday(birthday_kids)
    i += 1
 end
 end
+end
 
 
    
